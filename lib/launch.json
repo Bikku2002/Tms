@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Dart Web",
+        "type": "dart",
+        "request": "launch",
+        "program": "web/main.dart", // Adjust the path to your main Dart file for the web
+        "cwd": "${workspaceFolder}",
+        "args": []
+      }
+    ]
+  }
+  
